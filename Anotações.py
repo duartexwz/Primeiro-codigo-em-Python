@@ -1,3 +1,6 @@
+
+#Codigo ainda em construção, este é um modelo base ainda.
+
 #//Criar um prgorama que receba uma informação, pergunte qual data você quer armazenar ela e mostre essa informação na tela quando você pedir//
 
 #Pedir informação
